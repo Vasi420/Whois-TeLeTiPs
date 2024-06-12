@@ -16,7 +16,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/Whois-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vasi420/Whois-TeLeTiPs)
 
 ## Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
@@ -39,5 +39,4 @@ Works only in bot's private chat
 - You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
 ```
 ##Credits
-- [Whois Telegram information bot by TeLe TiPs] (https://github.com/teletips/Whois-TeLeTiPs)
-```
+- [Whois Telegram information bot by TeLe TiPs] (https://github.comVasi420/Whois-TeLeTiPs)
